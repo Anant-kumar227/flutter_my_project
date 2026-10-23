@@ -7,7 +7,7 @@ class SecondScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Second Screen ggggggh'),
+        title: Text('Second Screenyrtyrtyrtyrtyrt'),
         leading: IconButton(
           icon: Icon(Icons.add),
           onPressed: () {
